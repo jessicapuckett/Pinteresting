@@ -15,8 +15,3 @@
 /log/*
 !/log/.keep
 /tmp
-
-# Ignore all logfiles and tempfiles.
-/log/*.log
-/tmp
-.DS_Store
